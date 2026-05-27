@@ -1,0 +1,18 @@
+#ControleDeEstoque
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Compilados
+*.o
+*.out
+*.exe
+a.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
